@@ -1,7 +1,7 @@
 # PWZN PD 2
 
 Przykład odpalania pliku PDproj2.py, czyli Projektu 2:
-> python python PDproj2.py 50 50 5 5 8 25
+> python PDproj2.py 50 50 5 5 8 25
 
 positional arguments:
 - a                     pionowy wymiar siatki
